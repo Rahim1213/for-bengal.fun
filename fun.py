@@ -1,0 +1,8 @@
+name = input("Enter your name please")
+print("Ki miya khai dai kaj nai \U0001F60C\n ")
+bari = input("toh bari koi tmr!!!!")
+print("ohh tmr bari tailey " + bari + "\n""toh aikaney ki kam... \U0001F602")
+age = input("toh age koto akn !")
+print("hmm..onk age hoicey \n toh biyey sadi korey felo")
+kro = input ("toh ki kro akn  !!!")
+print("Acha \n akn asi ami\n Allah Hafez")
